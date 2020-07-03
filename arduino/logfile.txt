@@ -1,0 +1,9 @@
+code is true and the state is chagned  :  6/26/2020 8:25:09 PM
+get Sate  :  6/26/2020 9:14:24 PM
+get Sate  :  6/26/2020 9:19:22 PM
+exxx  :  System.NullReferenceException: Object reference not set to an instance of an object.
+   at arduino.Hubs.EventHub.poooo(String StateKey) in C:\Users\ASUS\source\repos\arduino\arduino\arduino\Hubs\EventHub.cs:line 63 6/27/2020 6:26:00 AM
+exxx  :  System.NullReferenceException: Object reference not set to an instance of an object.
+   at arduino.Hubs.EventHub.poooo(String StateKey) in C:\Users\ASUS\source\repos\arduino\arduino\arduino\Hubs\EventHub.cs:line 63 6/27/2020 6:26:59 AM
+exxx  :  System.NullReferenceException: Object reference not set to an instance of an object.
+   at arduino.Hubs.EventHub.poooo(String StateKey) in C:\Users\ASUS\source\repos\arduino\arduino\arduino\Hubs\EventHub.cs:line 63 6/27/2020 6:45:26 AM
